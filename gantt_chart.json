@@ -30,7 +30,7 @@
         "children": [
           {
             "elmType": "div",
-            "txtContent": "Trial",
+            "txtContent": "Task",
             "style": {
               "width": "220px",
               "text-align": "left",
